@@ -1,0 +1,19 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteRule   ^nfau_fu_master_po_dressing_up$   http://ngaufu.cybercow.se/Media/ShowMovie.php?movieId=wqieNburSak  [R=301,NC]
+RewriteRule   ^ngau_fu_master_po_lession_number_1$   http://ngaufu.cybercow.se/Media/ShowMovie.php?movieId=evSWG3ry6m4  [R=301,NC]
+RewriteRule   ^ngau_fu_master_po_lession_number_2$   http://ngaufu.cybercow.se/Media/ShowMovie.php?movieId=BBC8vpVFWBI  [R=301,NC]
+RewriteRule   ^ngau_fu_master_po_handstanding$   http://ngaufu.cybercow.se/Media/ShowMovie.php?movieId=NOTkauxT60c  [R=301,NC]
+RewriteRule   ^ngau_fu_fight_gigante_vs_master_po$   http://ngaufu.cybercow.se/Media/Round1.php  [R=301,NC]
+RewriteRule   ^ngaufu_party_roskilde$   http://ngaufu.cybercow.se/Media/ShowMovie.php?movieId=PJlU5MxD9EQ  [R=301,NC]
+RewriteRule   ^surrealism/the_art_of_the_cow/ferdnand_the_cow$  http://ngaufu.cybercow.se/Media/ShowMovie.php?movieId=AdZnrUNOFuk  [R=301,NC]
+RewriteRule   ^ngau_fu_master_po_balisong$   http://ngaufu.cybercow.se/Media/ShowMovie.php?movieId=acD6w1l_p-U  [R=301,NC]
+RewriteRule   ^ngau_fu_master_po_balisong_to_heaven$   http://ngaufu.cybercow.se/Media/ShowMovie.php?movieId=2yjmj_bXpBI  [R=301,NC]
+RewriteRule   ^ngau_fu_master_po_nunchaku$   http://ngaufu.cybercow.se/Media/ShowMovie.php?movieId=XSEj3ovA8Fw  [R=301,NC]
+RewriteRule   ^ngau_fu_master_po_first_move$   http://ngaufu.cybercow.se/Media/ShowMovie.php?movieId=ygnLW_k8_9I  [R=301,NC]
+RewriteRule   ^ngau_fu_gigante_balisong$   http://ngaufu.cybercow.se/Media/ShowMovie.php?movieId=XSFXc65H_ag  [R=301,NC]
+RewriteRule   ^ngau_fu_gigante_breakdance$   http://ngaufu.cybercow.se/Media/ShowMovie.php?movieId=vXJy86mHnX4  [R=301,NC]
+RewriteRule   ^ngau_fu_gigante_twirling_bo$   http://ngaufu.cybercow.se/Media/ShowMovie.php?movieId=yP9ZxvcXDy8  [R=301,NC]
+
+
+

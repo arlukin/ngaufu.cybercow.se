@@ -1,0 +1,83 @@
+ul {
+	margin-top: 4px;	
+	margin-left:10px;	
+}
+td, body {
+	font-family: Verdana, Geneva, Arial;
+	font-size: 8pt;
+	color: #3F3D3D;
+}
+A:link { 
+	font-family: verdana, tahoma, arial, helvetica; 
+	text-decoration: none 
+	font-size: 10pt; 
+}
+A:visited { 
+	font-family: verdana, tahoma, arial, helvetica; 	
+	text-decoration: none 
+	font-size: 10pt; 
+}
+.cssPageCaption  {
+	font-family: Verdana, Geneva, Arial;
+	color: #4d598b;
+	font-weight: bold;
+	font-size : 14pt;	
+}
+
+.cssLinkLabel {
+	font-size: 8pt;	
+}
+
+.cssLabel   {
+	font-family: Verdana, Geneva, Arial;
+	font-size: 10pt;
+	color: Black;
+	font-weight: bold
+}
+.cssFotnot   {
+	font-family: Verdana, Geneva, Arial;
+	font-size: 8pt;
+	color: Black;
+}
+.cssInputTextLabel {
+	font-family: Verdana, Geneva, Arial;
+	font-size: 10pt;
+	color: Black;
+}
+.cssInputText   {
+	font-family : Verdana, Geneva, Arial;
+	font-size : 10pt;
+}
+.cssTableCaption {
+	font-family: Verdana, Geneva, Arial;
+	font-size: 11pt;
+	color: Black;	
+	background-color : #ffd4b2;	
+	font-weight: bold
+}
+.cssTableRow {
+	font-family: Verdana, Geneva, Arial;
+	font-size: 10pt;
+	color: Black;
+	background-color : #FFFFFF;
+}
+.cssPageChanger {
+	font-family: Verdana, Geneva, Arial;
+	font-size: 10pt;
+	color: Black;
+	font-weight: bold;
+	background-color : #dbdbdb;
+	text-align : right;
+}
+.cssErrorMsg   {
+	font-family: Verdana, Geneva, Arial;
+	font-size: 8pt;
+	color: Red;
+	font-weight: bold
+}
+.cssInfoMsg {
+	font-family: Verdana, Geneva, Arial;
+	font-size: 8pt;
+	color: blue;
+	font-weight: bold
+}
